@@ -1,5 +1,5 @@
 # PacketSender v2.0
-This is a program that you can use to DDoS people... pretty self explanatory but it does require stupid good internet to use (like VERY good internet, over ten times more than 1000/s up and down).
+This program uses the UDP Packet system in C# to send packets to a specified IP address. Using this software requires **extremely** good internet (over 50,000 upload and download), so unless you have a botnet there is no use in using this. Still, enjoy the code :)
 
 # Note:
 DDoSing people/websites is **HIGHLY** illegal. I will not get involved in any legal issues if you choose to use this code unethically.
